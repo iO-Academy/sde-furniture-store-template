@@ -1,0 +1,1 @@
+# sde-furniture-store-template
